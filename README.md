@@ -41,12 +41,12 @@ Pixel 4a → SSH → Galaxy S3 (postmarketOS) → USB OTG → iPhone X
 | Rootful jailbreak (`-f` flag) | ✅ Confirmed |
 | iCloud bypass (Broque Ramdisk, SN swap + activation token) | ✅ Confirmed |
 | Rootless jailbreak (`-l` flag) | ✅ Confirmed |
-| `--pongo-shell` | ❓ Untested |
+| `--pongo-shell` | ✅ Confirmed |
 | `--device-info` | ❓ Untested |
-| `--force-revert` | ❓ Untested |
-| `--safe-mode` | ❓ Untested |
-| `--verbose-boot` | ❓ Untested |
-| `--enter-recovery` / `--exit-recovery` | ❓ Untested |
+| `--force-revert` | ❔ Unknown |
+| `--safe-mode` | ✅ Confirmed |
+| `--verbose-boot` | ✅ Confirmed |
+| `--enter-recovery` / `--exit-recovery` | ✅ Confirmed |
 
 ---
 
