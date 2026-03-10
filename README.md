@@ -1,4 +1,3 @@
-### 📄 [Fix_Palera1n](./Fix_Palera1n.md) · [FAQ](./FAQ.md)
 # s3ra1n — palera1n on Samsung Galaxy S3 (postmarketOS)
 ### Jailbreaking an iPhone X from a 2012 Android phone. Yes, really.
 
@@ -236,6 +235,7 @@ Tested with `libimobiledevice 1.4.0` and `libirecovery 1.3.1` on postmarketOS. T
 
 > ℹ️ **pymobiledevice3 on ARMv7:** Install in a venv. The `cryptography` package may require building without the Rust backend: `CRYPTOGRAPHY_DONT_BUILD_RUST=1 pip install cryptography`
 
+### 📄 [Fix_Palera1n](./Fix_Palera1n.md) · [FAQ](./FAQ.md)
 ---
 
 ## Credits
