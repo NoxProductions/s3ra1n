@@ -1,4 +1,4 @@
-# t3ra1n - palera1n on android termux using a magisk module + python script, check it **[here!](https://github.com/NoxProductions/t3ra1n)**
+# t3ra1n - palera1n on android termux using a magisk module + python script, check it out **[here!](https://github.com/NoxProductions/t3ra1n)**
 
 
 # s3ra1n — palera1n on Samsung Galaxy S3 (postmarketOS)
