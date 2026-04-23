@@ -240,8 +240,9 @@ Tested with `libimobiledevice 1.4.0` and `libirecovery 1.3.1` on postmarketOS. T
 
 ### 📄 [Fix_Palera1n](./Fix_Palera1n.md) 
 ---
-## Support
+## Support the Project
 If s3ra1n helped you jailbreak your device without a PC, consider buying me a coffee!
+
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/NoxProductionsx)
 
 ## Credits
