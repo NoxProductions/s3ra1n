@@ -238,8 +238,11 @@ Tested with `libimobiledevice 1.4.0` and `libirecovery 1.3.1` on postmarketOS. T
 
 > ℹ️ **pymobiledevice3 on ARMv7:** Install in a venv. The `cryptography` package may require building without the Rust backend: `CRYPTOGRAPHY_DONT_BUILD_RUST=1 pip install cryptography`
 
-### 📄 [Fix_Palera1n](./Fix_Palera1n.md) · [FAQ](./FAQ.md)
+### 📄 [Fix_Palera1n](./Fix_Palera1n.md) 
 ---
+## Support
+If s3ra1n helped you jailbreak your device without a PC, consider buying me a coffee!
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/NoxProductionsx)
 
 ## Credits
 
